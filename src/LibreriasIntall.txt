@@ -1,0 +1,16 @@
+npm install axios
+npm install vuetify
+npm install vue-filter-date-format
+
+npm install --save chartjs-plugin-datalabels  
+npm install vue-tour
+
+
+
+https://pulsar.gitbooks.io/vue-tour/
+
+*******
+You may use special comments to disable some warnings.
+Use // eslint-disable-next-line to ignore the next line.
+Use /* eslint-disable */ to ignore all warnings in a file.
+******
