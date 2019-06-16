@@ -151,7 +151,7 @@
                         </td>
                       </template>
                       <template v-slot:no-data>
-                        <v-btn color="primary" @click="listar">Resetear</v-btn>
+                        <v-btn color="primary" @click="listar">No se encontraron registros : Resetear</v-btn>
                       </template>
                     </v-data-table>
                     <!--   <div class="text-xs-center pt-2">
